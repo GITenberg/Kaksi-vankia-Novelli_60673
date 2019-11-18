@@ -1,6 +1,9 @@
 _repo: Kaksi-vankia-Novelli_60673
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Zwei Gefangene. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Heyse, Paul
@@ -15,6 +18,8 @@ creator:
     - http://de.wikipedia.org/wiki/Paul_Heyse
     - http://en.wikipedia.org/wiki/Paul_Heyse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60673#Kaksi-vankia-Novelli
 gutenberg_issued: '2019-11-11'
 gutenberg_type: Text
 identifiers:
